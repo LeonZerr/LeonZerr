@@ -14,3 +14,4 @@ I am currently learning Python!
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/aa58cad0-9c52-4dfc-836e-2ddf838dc133)
