@@ -12,6 +12,8 @@ I am currently learning Python!
 ---
 [![](https://visitcount.itsvg.in/api?id=LeonZerr&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/40b5be52-bb53-4a26-aea6-f3e6de8516db)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/aa58cad0-9c52-4dfc-836e-2ddf838dc133)
+
