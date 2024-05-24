@@ -8,7 +8,7 @@ I am currently learning Python!
 ![](https://github-readme-stats.vercel.app/api?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LeonZerr&icon=0&color=0)](https://visitcount.itsvg.in)
