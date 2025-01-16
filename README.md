@@ -15,7 +15,8 @@ I am currently learning Python!
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23000000?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API](https://img.shields.io/badge/API-Available-blue?style=for-the-badge)
+![API](https://img.shields.io/badge/API-blue?style=for-the-badge)
+
 
 
 
