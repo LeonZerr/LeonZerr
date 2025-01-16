@@ -8,6 +8,8 @@ I am currently learning Python!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23000000?style=flat&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
+![Django](https://img.shields.io/badge/Django-blue)
+
 
 
 
