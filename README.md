@@ -1,5 +1,7 @@
 # **About Me:**
 Recent Python developer with a completed apprenticeship as a CNC machinist specializing in milling machine systems. My passion for technology, programming, and automation has led me to pursue a career in software development.
+I'm a recent Python developer specializing in Django and RESTful APIs. Currently, I’m focused on building scalable web applications and improving my backend development skills.
+Before transitioning into software development, I completed an apprenticeship as a CNC machinist, where I developed strong problem-solving and automation skills that now enhance my work as a developer. 
 
 
 # **Tech Stack:**
