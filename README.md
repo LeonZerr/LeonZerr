@@ -46,15 +46,12 @@ I am currently learning Python!
 
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 	
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LeonZerr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/40b5be52-bb53-4a26-aea6-f3e6de8516db)
 
 
