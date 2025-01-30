@@ -1,4 +1,5 @@
 # **About Me:**
+
 - Recent Python developer specializing in Django and RESTful APIs
 - Currently focused on building scalable web applications and improving backend development skills 
 - Previously a CNC machinist specializing in milling machine systems, where I gained hands-on experience with complex technical systems that now enhance my work as a developer! 
@@ -49,6 +50,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 	
+# **Certifications:**
 
 ![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/40b5be52-bb53-4a26-aea6-f3e6de8516db)
 
