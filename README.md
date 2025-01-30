@@ -1,7 +1,6 @@
 # **About Me:**
 I am currently learning Python!
 
----
 
 # **Tech Stack:**
 
@@ -41,7 +40,6 @@ I am currently learning Python!
 - **Operating System**:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=orange)
 
----
 
 # **GitHub Stats:**
 
@@ -49,7 +47,6 @@ I am currently learning Python!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 	
----
 
 ![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/40b5be52-bb53-4a26-aea6-f3e6de8516db)
 
