@@ -1,5 +1,6 @@
 # **About Me:**
-I am currently learning Python!
+Recent Python developer with a completed apprenticeship as a CNC machinist (milling machine systems).
+My interest in technology, programming and automation led me to software development!
 
 
 # **Tech Stack:**
