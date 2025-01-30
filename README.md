@@ -1,6 +1,5 @@
 # **About Me:**
-Recent Python developer with a completed apprenticeship as a CNC machinist (milling machine systems).
-My interest in technology, programming and automation led me to software development!
+Recent Python developer with a completed apprenticeship as a CNC machinist specializing in milling machine systems. My passion for technology, programming, and automation has led me to pursue a career in software development.
 
 
 # **Tech Stack:**
