@@ -25,9 +25,9 @@ I am currently learning Python!
 
 
 - **API Development Workflow**:
+![APIs](https://img.shields.io/badge/API's-blue?style=for-the-badge) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=swagger&logoColor=white) 
-![APIs](https://img.shields.io/badge/API's-blue?style=for-the-badge)
 
 - **Version Control & Deployment**:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
