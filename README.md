@@ -1,7 +1,8 @@
 
 I am currently learning Python!
 
-# Skills Overview
+---
+
 
 ## **Programming Languages & Web Technologies**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,7 +45,7 @@ I am currently learning Python!
 
 
 
-
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
