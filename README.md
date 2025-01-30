@@ -1,10 +1,9 @@
-
+# **About Me:**
 I am currently learning Python!
 
 ---
 
-
-# **Tech Stack**
+# **Tech Stack:**
 
 - **Programming Language**:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -22,7 +21,6 @@ I am currently learning Python!
 - **Backend Frameworks & Tools**:
 ![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge) 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-green?style=for-the-badge&logo=django&logoColor=white)
-
 
 - **API Development Workflow**:
 ![APIs](https://img.shields.io/badge/API's-blue?style=for-the-badge) 
@@ -43,26 +41,16 @@ I am currently learning Python!
 - **Operating System**:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=orange)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+# **GitHub Stats:**
+
 ![](https://github-readme-stats.vercel.app/api?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonZerr&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZerr&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 	
-
 ---
+
 ![google-it-support-professional-certificate 1](https://github.com/LeonZerr/LeonZerr/assets/169882053/40b5be52-bb53-4a26-aea6-f3e6de8516db)
 
 
