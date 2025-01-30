@@ -1,41 +1,24 @@
 
 I am currently learning Python!
 
-## Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## Version Control
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-## Tools & Design
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-%23000000?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-## Databases
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Backend
-![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-REST_API-green?style=for-the-badge&logo=django&logoColor=white)
-
-## API & Documentation
-![Swagger](https://img.shields.io/badge/Swagger-API-blue?style=for-the-badge&logo=swagger&logoColor=white)
-![API's](https://img.shields.io/badge/API's-blue?style=for-the-badge)
-
-## Operating Systems
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Containers
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)<br> 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)<br>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br>
+![DBeaver](https://img.shields.io/badge/DBeaver-%23000000?style=for-the-badge&logo=dbeaver&logoColor=white)<br>
+![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge)<br>
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>
+![API's](https://img.shields.io/badge/API's-blue?style=for-the-badge)<br>
+![Swagger](https://img.shields.io/badge/Swagger-API-blue?style=for-the-badge&logo=swagger&logoColor=white)<br>
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-REST_API-green?style=for-the-badge&logo=django&logoColor=white)<br>
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
 
 
 
