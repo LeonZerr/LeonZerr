@@ -21,7 +21,8 @@ I am currently learning Python!
 
 - **Backend Frameworks & Tools**:
 ![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge) 
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-REST_API-green?style=for-the-badge&logo=django&logoColor=white) 
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-green?style=for-the-badge&logo=django&logoColor=white)
+
 
 - **API Development Workflow**:
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
