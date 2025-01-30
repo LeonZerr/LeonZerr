@@ -1,7 +1,7 @@
 # **About Me:**
 - Recent Python developer specializing in Django and RESTful APIs
 - Currently focused on building scalable web applications and improving backend development skills 
-- Former CNC machinist specializing in milling machine systems, where I gained hands-on experience with complex technical systems which now enhances my work as a developer! 
+- Previously a CNC machinist specializing in milling machine systems, where I gained hands-on experience with complex technical systems that now enhance my work as a developer! 
 
 
 # **Tech Stack:**
