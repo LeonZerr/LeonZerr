@@ -16,6 +16,12 @@ I am currently learning Python!
 ![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API's](https://img.shields.io/badge/API's-blue?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-API-blue?style=for-the-badge&logo=swagger&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-REST_API-green?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 
